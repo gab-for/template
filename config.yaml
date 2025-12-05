@@ -5,11 +5,11 @@ template:
     description: "Python basic files to work with Flask"
     gitignore:
       - "__pycache__/"
- typescript:
+  typescript:
     directory: "typescript"
     description: "Typescript basic files, with strict configuration in JavaScript es2016"
     gitignore:
-      - "/dist"
+     - "/dist"
   python:
     directory : "python-main"
     description : "Python basic project files"
